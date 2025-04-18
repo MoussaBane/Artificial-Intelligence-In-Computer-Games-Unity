@@ -26,7 +26,7 @@ This course explores various Artificial Intelligence techniques commonly used in
 
 1. Clone the repository:
    ```bash
-  git clone https://github.com/MoussaBane/Artificial-Intelligence-In-Computer-Games-Unity.git
+   git clone https://github.com/MoussaBane/Artificial-Intelligence-In-Computer-Games-Unity.git
 
 2. Open the desired homework folder in Unity.
 
